@@ -1,0 +1,19 @@
+{
+  "name": "com.exhard.exbasekit",
+  "version": "1.0.0",
+  "displayName": "Ex Base Kit",
+  "unity": "2022.3",
+  "description": "The Ex Base Kit is a collection of 'EX' tools that are commonly used in the development of Unity games.(This repo contains the Odin Inspector.So, please,Keep SILENCE! This is a secret tool!)",
+  "documentationUrl": "https://github.com/No78Vino/ExBaseKit",
+  "dependencies": {},
+  "author": {
+    "name": "EX-Hard",
+    "email": "",
+    "url": "https://github.com/No78Vino"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/No78Vino/ExBaseKit.git"
+  }
+}
