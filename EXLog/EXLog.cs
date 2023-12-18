@@ -1,10 +1,10 @@
 using UnityEngine;
 
-namespace EXTool
+namespace EXMaid
 {
     public class EXLog
     {
-        static string AppendExMark(string msg) => $"[EXTool] {msg}";
+        static string AppendExMark(string msg) => $"[EXMaid] {msg}";
 
         public static void Log(string msg)
         {
